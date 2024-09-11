@@ -1,0 +1,2 @@
+termcolor==2.4.0
+wordcloud==1.9.3
