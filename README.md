@@ -1,0 +1,1 @@
+This script generates a word cloud in the shape of a butterfly, with words sized according to their frequency of occurrence.
